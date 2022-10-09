@@ -17,7 +17,10 @@ module.exports = {
       },
       animation: {
         slideDown: 'slideDown 0.4s ease-in-out',
-      }
+      },
+      backgroundImage: {
+        'slide-bg': 'url(".img/slider-bg.jpeg")'
+      },
     },
   },
   plugins: [],
